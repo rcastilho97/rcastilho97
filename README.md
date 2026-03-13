@@ -1,3 +1,6 @@
+$ echo "Why do programmers love dark mode?"
+> ...because light attracts bugs 😅🪲🥁
+  
   ## Hey, I'm Rebeca 👋                                                                                                                                                                                                                                             
   🎬 Filmmaker turned Software Engineer                                                                                                             
   🌍 Born in Brazil → studied in NYC → now building in Dublin, Ireland                                                                              
