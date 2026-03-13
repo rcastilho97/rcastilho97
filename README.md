@@ -20,11 +20,11 @@
   ---
 
   ### 📊 Git Stats                                                                                                                                  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rcastilho97&theme=dark&hide_border=false" width="55%"/>  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rcastilho97&theme=dark&hide_border=false" width="55%"/>   
 
   ---
 
-  ### 💻 Tech Stack
+  ### 💻 Tech Stack:
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,9 +42,5 @@
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-  ---
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rcastilho97&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
